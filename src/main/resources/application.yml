@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: boot-cloud-step3
+  profiles:
+    active: dev
